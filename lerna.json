@@ -1,11 +1,5 @@
 {
-    "$schema": "node_modules/lerna/schemas/lerna-schema.json",
-    "useWorkspaces": true,
-    "version": "independent",
-    "independent": true,
-    "command": {
-        "publish": {
-            "allowBranch": "main"
-        }
-    }
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
+  "version": "0.0.0",
+  "useWorkspaces": true
 }
