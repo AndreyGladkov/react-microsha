@@ -1,0 +1,30 @@
+0 silly argv {
+0 silly argv   _: [ 'version' ],
+0 silly argv   lernaVersion: '6.5.1',
+0 silly argv   '$0': '/Users/a.gladkov/Project/react-microsha/node_modules/.bin/lerna'
+0 silly argv }
+1 notice cli v6.5.1
+2 verbose rootPath /Users/a.gladkov/Project/react-microsha
+3 info current version 0.0.0
+4 silly isAnythingCommitted
+5 verbose isAnythingCommitted 1
+6 silly getCurrentBranch
+7 verbose currentBranch main
+8 silly remoteBranchExists
+9 silly isBehindUpstream
+10 silly isBehindUpstream main is behind origin/main by 0 commit(s) and ahead by 3
+11 silly hasTags
+12 verbose hasTags false
+13 info Assuming all packages changed
+14 verbose updated @react-microsha/button
+15 verbose git-describe undefined => "422e145"
+16 silly git-describe parsed => {"refCount":"6","sha":"422e145","isDirty":false}
+17 info execute Skipping releases
+18 silly lifecycle No script for "preversion" in "root", continuing
+19 silly lifecycle No script for "preversion" in "@react-microsha/button", continuing
+20 error TypeError: Cannot read properties of undefined (reading '@testing-library/react')
+20 error     at /Users/a.gladkov/Project/react-microsha/node_modules/lerna/dist/cli.js:6816:69
+20 error     at Array.reduce (<anonymous>)
+20 error     at /Users/a.gladkov/Project/react-microsha/node_modules/lerna/dist/cli.js:6815:89
+20 error     at async Promise.all (index 0)
+20 error     at async /Users/a.gladkov/Project/react-microsha/node_modules/p-pipe/index.js:12:19
