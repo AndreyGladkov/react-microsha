@@ -2,7 +2,9 @@
     "name": "@react-microsha/button",
     "version": "0.2.0",
     "main": "index.tsx",
-    "scripts": {},
+    "scripts": {
+        "test": "echo \"no test specified\""
+    },
     "peerDependencies": {
         "react": "^18.2.0"
     },
