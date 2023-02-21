@@ -1,0 +1,9 @@
+{
+    "name": "@react-microsha/input",
+    "version": "0.0.1",
+    "main": "index.tsx",
+    "scripts": {},
+    "peerDependencies": {
+        "react": "^18.2.0"
+    }
+}
