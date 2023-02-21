@@ -1,6 +1,6 @@
 {
     "name": "@react-microsha/button",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "main": "index.tsx",
     "scripts": {
         "test": "echo"
@@ -8,5 +8,5 @@
     "peerDependencies": {
         "react": "^18.2.0"
     },
-    "gitHead": "902007f6eaad67a9a2c6bf91564eac5764c03aba"
+    "gitHead": "ae2607702a15990ef3a54c394ae647c0b200b28f"
 }
