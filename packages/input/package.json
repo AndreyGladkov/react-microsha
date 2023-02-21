@@ -1,12 +1,12 @@
 {
     "name": "@react-microsha/input",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "main": "index.tsx",
     "scripts": {
-        "test": "echo \"no test specified\""
+        "test": "echo"
     },
     "peerDependencies": {
         "react": "^18.2.0"
     },
-    "gitHead": "290b9d2ed0bbff656668bc1985bf89a0c0e9cec0"
+    "gitHead": "902007f6eaad67a9a2c6bf91564eac5764c03aba"
 }
